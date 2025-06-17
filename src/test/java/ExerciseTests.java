@@ -34,10 +34,10 @@ public class ExerciseTests {
         assertEquals("", result);
         assertEquals(1, logMessages.size());
     }
-
-    /**
-     * Test the safeDivideWithCustomException method.
-     */
+//
+//    /**
+//     * Test the safeDivideWithCustomException method.
+//     */
     @Test
     public void testSafeDivideWithCustomException() {
         try {
